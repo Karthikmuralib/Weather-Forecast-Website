@@ -5,5 +5,7 @@ Create a new folder for your project. Initialize a new Node.js project using npm
 
 #output
 
+![Screenshot (14)](https://github.com/Karthikmuralib/Weather-Forecast-Website/assets/170596326/84c2cc16-b59a-4e4f-843e-152d786125c4)
+![Screenshot (16)](https://github.com/Karthikmuralib/Weather-Forecast-Website/assets/170596326/7c6e4828-bd6d-4a4f-8eaa-bcccc30f0844)
 
 
